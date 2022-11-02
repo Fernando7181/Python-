@@ -30,3 +30,9 @@ if any tips just tell me :)
 [List 2 - Ex004](https://github.com/Fernando7181/Python-/blob/main/Trabalho%20AV1/Idades%20e%20lista.py)  
 
   This program will use a for loop and ask for 5 people height of them and will storage them on a list and after it it will print the height of them on inverse and normal way.
+    
+[AV2](https://github.com/Fernando7181/Python-/tree/main/Trabalho%20AV2)    
+
+[1 - Trapezoid Area](https://github.com/Fernando7181/Python-/blob/main/Trabalho%20AV2/Area%20do%20trapezio.py)
+
+  The program will welcome you to it and use an import.time of 2 seconds after that they will ask you for the two lenghs of it and height. After all informations they will storage it and give you the result of the area.

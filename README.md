@@ -36,3 +36,11 @@ if any tips just tell me :)
 [1 - Trapezoid Area](https://github.com/Fernando7181/Python-/blob/main/Trabalho%20AV2/Area%20do%20trapezio.py)
 
   The program will welcome you to it and use an import.time of 2 seconds after that they will ask you for the two lenghs of it and height. After all informations they will storage it and give you the result of the area.
+  
+[2 - Taxes](https://github.com/Fernando7181/Python-/blob/main/Trabalho%20AV2/taxes.py)
+
+ This will calculate the amont of taxes, showing you how much it was the taxes and also showing you the new product price on on the system.
+ 
+[3 - Time](https://github.com/Fernando7181/Python-/blob/main/Trabalho%20AV2/Time%20manegment.py)  
+ 
+ The program will show you and convert standart military time to normal Am to Pm time. using if statments

@@ -43,4 +43,4 @@ if any tips just tell me :)
  
 [3 - Time](https://github.com/Fernando7181/Python-/blob/main/Trabalho%20AV2/Time%20manegment.py)  
  
- The program will show you and convert standart military time to normal Am to Pm time. using if statments
+ The program will show you and convert standart military time to normal Am to Pm time. using if statments and def statment and loops so you can do as many calculations you want, because the program will always ask you if you want to do another calc or leave the prgram 

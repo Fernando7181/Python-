@@ -13,5 +13,5 @@ def calculator():
  while continuee == 1:
      calculator()
      if continuee >= 2:
-         break
+         continuee == 0
 calculator()

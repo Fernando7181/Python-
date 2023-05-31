@@ -44,3 +44,7 @@ if any tips just tell me :)
 [3 - Time](https://github.com/Fernando7181/Python-/blob/main/Trabalho%20AV2/Time%20manegment.py)  
  
  The program will show you and convert standart military time to normal Am to Pm time. using if statments and def statment and loops so you can do as many calculations you want, because the program will always ask you if you want to do another calc or leave the prgram 
+
+[Python Record](https://github.com/Fernando7181/Python-/commit/562e7a45bc5a9331e3ece128358525fa87f1cc83)
+
+ This Program was a project for university made for you to record a persons name, email, age and phone number that you coul use it as a data base that introduce you to a lot of persons taht you could delete their person for the data base or even update their information on it.
